@@ -1,1 +1,1 @@
-### [FreeCodeCamp Project Random Quote Machine] (https://newyorkcityjosr.github.io/freeCodeCampRandomQuote/)
+## [FreeCodeCamp Project Random Quote Machine](https://newyorkcityjosr.github.io/freeCodeCampRandomQuote/)
