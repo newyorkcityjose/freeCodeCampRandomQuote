@@ -7,14 +7,10 @@ body{
    
   background-color: blue;
     
-    text-align: center;
-    justify-items: center;
-    
-    
 }
-wrapper{
-    margin: auto;
+/* wrapper{
+  margin: auto;
   width: 50%;
   border: 3px solid green;
   padding: 10px;
-}
+} */
